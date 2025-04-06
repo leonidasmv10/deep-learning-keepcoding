@@ -4,6 +4,12 @@ Este estudio compara el rendimiento de diferentes arquitecturas de redes neurona
 
 ---
 
+# Link Google Colab
+
+https://colab.research.google.com/drive/1g4Glragp0HndYLempEkTD31iDCrr4y9W?usp=sharing
+
+---
+
 ## Comparativa General de Modelos
 
 | Modelo                          | Precisión Total | F1-score Macro |
