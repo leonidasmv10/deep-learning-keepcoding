@@ -62,7 +62,7 @@ https://colab.research.google.com/drive/1g4Glragp0HndYLempEkTD31iDCrr4y9W?usp=sh
 
 ---
 
-### Early Fusion (Hito 3)
+### Early Fusion (Hito 4)
 - Imágenes y datos tabulares fusionados antes del proceso convolucional.
 - Entrenamiento sobre imagen "aplanada" + datos tabulares.
 - Técnicas utilizadas:
@@ -72,7 +72,7 @@ https://colab.research.google.com/drive/1g4Glragp0HndYLempEkTD31iDCrr4y9W?usp=sh
 
 ---
 
-## Conclusiòn
+## Conclusión
 
 - El mejor rendimiento lo alcanza la red **CNN desde cero**, seguida por la estrategia de **Late Fusion**.
 - El modelo tabular y Early Fusion son los que peores resultados ofrecen.
